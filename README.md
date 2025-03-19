@@ -20,11 +20,6 @@ A sleek and interactive music player built using ReactJS. Play your favorite son
 
 ---
 
- **📸 Screenshots**  
-*(Add screenshots here if available)*  
-
----
-
  **🔧 Installation**  
 1️⃣ Clone the repository:  
 ```sh
